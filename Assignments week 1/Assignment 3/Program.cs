@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_1
+namespace Assignment_3
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter a number of seconds: ");
         }
     }
 }
